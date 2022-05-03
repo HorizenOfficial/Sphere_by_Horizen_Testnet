@@ -2,7 +2,9 @@
 
 # Sphere by Horizen Testnet
 
-**Latest Version:** [v1.3.0-beta-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/latest)
+**Latest Version:** [v1.3.0-beta-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/desktop-v1.3.0-beta-testnet)
+
+**This version of Sphere by Horizen is running on Testnet, only Testnet ZEN can be transferred. All on disk data directories and wallets are separate from the Mainnet version of Sphere by Horizen. Sphere by Horizen Testnet can be safely installed side-by-side with the Mainnet version.**
 
 For a list of changes implemented in this version, please view the [changelog](CHANGELOG.md).
 
@@ -11,9 +13,13 @@ For a list of changes implemented in this version, please view the [changelog](C
 ## About
 Sphere by Horizen Testnet is envisioned as a launching point for Horizen services. The [latest](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/latest) version hosts wallet functions with the following features:
 
-* Full client running on Beta Testnet with both transparent, private transactions
+* Full client with both transparent and private transactions
 
-* Testnet support on full-mode: testnet explorer, create, forward transfer and backward transfer detection
+* Lite client with transparent transactions
+
+* Support for creating and displaying Mainchain to Sidechain Forward Transfer transactions in Full Mode on Testnet
+
+* Support for displaying incoming Sidechain to Mainchain Backward Transfer transactions in Full Mode on Testnet
 
 * The wallet is deterministic, meaning if you lose your account, you can restore cryptocurrency funds through a user-friendly process involving a unique 24-word phrase
 
