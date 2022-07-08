@@ -1,3 +1,7 @@
+## [1.4.0-beta](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/tag/desktop-v1.4.0-beta)
+### Changed
+- Display full sidechain addresses on the withdraw details screen
+
 ## [1.3.0-beta-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/tag/desktop-v1.3.0-beta-testnet)
 ### Changed
 - Network changed to Testnet
