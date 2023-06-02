@@ -1,3 +1,7 @@
+## [1.11.0-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/tag/desktop-v1.11.0-testnet)
+### Changed
+- Update Sphere testnet for Zend v4
+
 ## [1.4.0-beta-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/tag/desktop-v1.4.0-beta-testnet)
 ### Changed
 - Display full sidechain addresses on the withdraw details screen
