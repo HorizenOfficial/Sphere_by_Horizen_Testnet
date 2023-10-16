@@ -1,3 +1,7 @@
+## [1.13.0-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen/releases/tag/desktop-v1.13.0-testnet)
+### Changed
+- Update Sphere testnet to integrate shielded address updates
+
 ## [1.11.0-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/tag/desktop-v1.11.0-testnet)
 ### Changed
 - Update Sphere testnet for Zend v4
