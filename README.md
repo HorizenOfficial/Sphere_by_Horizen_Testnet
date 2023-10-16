@@ -2,7 +2,7 @@
 
 # Sphere by Horizen Testnet
 
-**Latest Version:** [v1.11.0-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/desktop-v1.11.0-testnet)
+**Latest Version:** [v1.13.0-testnet](https://github.com/HorizenOfficial/Sphere_by_Horizen_Testnet/releases/desktop-v1.13.0-testnet)
 
 **This version of Sphere by Horizen is running on Testnet, only Testnet ZEN can be transferred. All on disk data directories and wallets are separate from the Mainnet version of Sphere by Horizen. Sphere by Horizen Testnet can be safely installed side-by-side with the Mainnet version.**
 
